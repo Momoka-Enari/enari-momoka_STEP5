@@ -1,0 +1,8 @@
+.highlight {
+    background-color: yellow;
+    padding: 5px;
+}
+
+#button456 {
+    display: inline-block; /* または block にする */
+}
